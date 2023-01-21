@@ -103,6 +103,7 @@
 		A234B2312979298C0045B9A5 /* PostRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = A234B2302979298C0045B9A5 /* PostRow.swift */; };
 		A234B233297929A40045B9A5 /* MyWeChatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A234B232297929A40045B9A5 /* MyWeChatView.swift */; };
 		A234B235297929B70045B9A5 /* SendMailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A234B234297929B70045B9A5 /* SendMailView.swift */; };
+		A2917A40297BAD240089B7AE /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A2917A3F297BAD240089B7AE /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -198,7 +199,7 @@
 		A234B21A297925AD0045B9A5 /* RouteStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RouteStore.swift; sourceTree = "<group>"; };
 		A234B21B297925AD0045B9A5 /* Routable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Routable.swift; sourceTree = "<group>"; };
 		A234B21C297925AD0045B9A5 /* PanDirectionGestureRecognizer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PanDirectionGestureRecognizer.swift; sourceTree = "<group>"; };
-		A234B223297926AB0045B9A5 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = SOURCE_ROOT; };
+		A234B223297926AB0045B9A5 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A234B227297928840045B9A5 /* Public.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Public.swift; sourceTree = "<group>"; };
 		A234B22A297928A30045B9A5 /* AppHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppHelper.swift; sourceTree = "<group>"; };
 		A234B22C297929420045B9A5 /* SheetTitle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SheetTitle.swift; sourceTree = "<group>"; };
@@ -206,6 +207,7 @@
 		A234B2302979298C0045B9A5 /* PostRow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostRow.swift; sourceTree = "<group>"; };
 		A234B232297929A40045B9A5 /* MyWeChatView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyWeChatView.swift; sourceTree = "<group>"; };
 		A234B234297929B70045B9A5 /* SendMailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SendMailView.swift; sourceTree = "<group>"; };
+		A2917A3F297BAD240089B7AE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -258,14 +260,15 @@
 		A234B1352979222D0045B9A5 /* PureFantasy */ = {
 			isa = PBXGroup;
 			children = (
-				A234B151297924550045B9A5 /* Zhao_chunxiang_002 */,
-				A234B14E297923450045B9A5 /* Zhao_chunxiang_001 */,
-				A234B1452979224A0045B9A5 /* MVVM */,
 				A234B1362979222D0045B9A5 /* PureFantasyApp.swift */,
 				A234B1382979222D0045B9A5 /* ContentView.swift */,
 				A234B223297926AB0045B9A5 /* Podfile */,
+				A2917A3F297BAD240089B7AE /* README.md */,
 				A234B13A2979222E0045B9A5 /* Assets.xcassets */,
 				A234B13C2979222E0045B9A5 /* PureFantasy.entitlements */,
+				A234B151297924550045B9A5 /* Zhao_chunxiang_002 */,
+				A234B14E297923450045B9A5 /* Zhao_chunxiang_001 */,
+				A234B1452979224A0045B9A5 /* MVVM */,
 				A234B13D2979222E0045B9A5 /* Preview Content */,
 			);
 			path = PureFantasy;
@@ -614,6 +617,7 @@
 				A234B1E62979259E0045B9A5 /* focus_success.json in Resources */,
 				A234B13F2979222E0045B9A5 /* Preview Assets.xcassets in Resources */,
 				A234B20A2979259E0045B9A5 /* citys.json in Resources */,
+				A2917A40297BAD240089B7AE /* README.md in Resources */,
 				A234B1EA2979259E0045B9A5 /* blue_bell.json in Resources */,
 				A234B1F12979259E0045B9A5 /* NotoSansSC-Bold.otf in Resources */,
 				A234B1E22979259E0045B9A5 /* Tosta_Check_User.json in Resources */,
