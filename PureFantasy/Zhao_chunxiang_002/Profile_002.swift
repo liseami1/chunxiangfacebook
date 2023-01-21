@@ -9,7 +9,7 @@ import SwiftUI
 
 struct Profile_002: View {
     var body: some View {
-        Text("赵纯想小号")
+        Text("赵纯想")
     }
 }
 
