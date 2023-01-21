@@ -1,0 +1,73 @@
+PODS:
+  - Alamofire (5.6.4)
+  - Introspect (0.1.4)
+  - KakaJSON (1.1.2)
+  - Kingfisher (7.4.1)
+  - lottie-ios (4.0.1)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Combine (15.0.0):
+    - Moya/Core
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - SwifterSwift (5.2.0):
+    - SwifterSwift/AppKit (= 5.2.0)
+    - SwifterSwift/CoreAnimation (= 5.2.0)
+    - SwifterSwift/CoreGraphics (= 5.2.0)
+    - SwifterSwift/CoreLocation (= 5.2.0)
+    - SwifterSwift/Dispatch (= 5.2.0)
+    - SwifterSwift/Foundation (= 5.2.0)
+    - SwifterSwift/MapKit (= 5.2.0)
+    - SwifterSwift/SceneKit (= 5.2.0)
+    - SwifterSwift/SpriteKit (= 5.2.0)
+    - SwifterSwift/StoreKit (= 5.2.0)
+    - SwifterSwift/SwiftStdlib (= 5.2.0)
+    - SwifterSwift/UIKit (= 5.2.0)
+  - SwifterSwift/AppKit (5.2.0)
+  - SwifterSwift/CoreAnimation (5.2.0)
+  - SwifterSwift/CoreGraphics (5.2.0)
+  - SwifterSwift/CoreLocation (5.2.0)
+  - SwifterSwift/Dispatch (5.2.0)
+  - SwifterSwift/Foundation (5.2.0)
+  - SwifterSwift/MapKit (5.2.0)
+  - SwifterSwift/SceneKit (5.2.0)
+  - SwifterSwift/SpriteKit (5.2.0)
+  - SwifterSwift/StoreKit (5.2.0)
+  - SwifterSwift/SwiftStdlib (5.2.0)
+  - SwifterSwift/UIKit (5.2.0)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Introspect
+  - KakaJSON
+  - Kingfisher
+  - lottie-ios
+  - Moya
+  - Moya/Combine (~> 15.0)
+  - SwifterSwift
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Introspect
+    - KakaJSON
+    - Kingfisher
+    - lottie-ios
+    - Moya
+    - SwifterSwift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  Introspect: b62c4dd2063072327c21d618ef2bedc3c87bc366
+  KakaJSON: cc5ff50a8c1cfbb09413db8496cb709a209e6137
+  Kingfisher: cd762a593a61b2fbecf7645c00f9a801a3ebfc9c
+  lottie-ios: 54d22edf55b839f0929cabbfe609c9aa548b1145
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  SwifterSwift: 334181863c416882d97b7a60c05054d9e4d799e2
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 34aa2c20f3a8df0c6c8e0c92893aee75d26bce03
+
+COCOAPODS: 1.11.3
