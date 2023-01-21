@@ -318,13 +318,13 @@
 		A234B14E297923450045B9A5 /* Zhao_chunxiang_001 */ = {
 			isa = PBXGroup;
 			children = (
+				A234B14F297923620045B9A5 /* Profile_001.swift */,
 				A234B22A297928A30045B9A5 /* AppHelper.swift */,
 				A234B225297928840045B9A5 /* PublicModel */,
 				A234B218297925AD0045B9A5 /* RouteStore */,
 				A234B16C2979259E0045B9A5 /* DesginSystem */,
 				A234B1A12979259E0045B9A5 /* Extension */,
 				A234B1B42979259E0045B9A5 /* Tools */,
-				A234B14F297923620045B9A5 /* Profile_001.swift */,
 			);
 			path = Zhao_chunxiang_001;
 			sourceTree = "<group>";
