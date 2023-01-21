@@ -4,4 +4,4 @@
 
 ## 提交规则
 
-![提交规则](https://github.com/liseami/chunxiangfacebook/main/image1.png)
+![提交规则](https://github.com/liseami/chunxiangfacebook/blob/main/image1.png)
